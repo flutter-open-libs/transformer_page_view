@@ -6,12 +6,6 @@ import 'bean/transformer_info.dart';
 import 'controller/index_controller.dart';
 import 'controller/transformer_page_controller.dart';
 
-const int kMaxValue = 2000000000;
-const int kMiddleValue = 1000000000;
-
-///  Default auto play transition duration (in millisecond)
-const int kDefaultTransactionDuration = 300;
-
 abstract class PageTransformer {
   final bool reverse;
 
