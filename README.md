@@ -4,7 +4,7 @@
 
 ```
 dependencies:
-  sing_plugin_tools: ^0.0.21
+   sing_transformer_page_view: ^0.0.1
 ```
 
 ![来源](https://github.com/best-flutter/transformer_page_view)
